@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: re-shopping-cart-web-app
+    name: shopping-cart-website
 
   profiles:
     active: prod # Production development
